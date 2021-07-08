@@ -1,3 +1,3 @@
 # PYTHON CONTROL VISUAL
 
-<img src="image.png" alt="My cool logo"/>
+<img height="400" src="https://github.com/BorisTravi/pythoncontrolvisual/blob/master/image.PNG"/>
